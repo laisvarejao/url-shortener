@@ -1,3 +1,3 @@
 # url-shortener
 
-A url shortener developed in Sinatra.
+A url shortener developed with Sinatra.
